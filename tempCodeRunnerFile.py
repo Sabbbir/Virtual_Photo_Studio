@@ -1,0 +1,2 @@
+
+        scene.addItem(item)
